@@ -33,7 +33,6 @@ Images/
 Documentation/
 README.md
 ## Dashboard Preview
-![Sales Analytics Dashboard](images/dashboard-preview.png)
----
+![Sales Analytics Dashboard](images/dashboard-preview.png) 
 ## Author
 Arena Choudhary
