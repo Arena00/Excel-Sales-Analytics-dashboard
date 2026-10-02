@@ -28,6 +28,23 @@ The dashboard focuses on:
 - Filters / Slicers
 ## Dashboard Preview
 ![Sales Analytics Dashboard](images/dashboard-preview.png)
+## Project Structure
+
+```text
+excel-sales-analytics-dashboard/
+│
+├── README.md
+├── dashboard/
+│   └── Sales_Analytics_Dashboard.xlsx
+│
+├── data/
+│   └── Sales_Data.xlsx
+│
+├── images/
+│   └── dashboard-preview.png
+│
+└── documentation/
+    └── Project_Overview.pdf
 ---
 ## Author
 Arena Choudhary
