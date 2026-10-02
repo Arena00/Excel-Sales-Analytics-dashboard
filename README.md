@@ -29,5 +29,5 @@ The dashboard focuses on:
 ## Dashboard Preview
 ![Sales Analytics Dashboard](images/dashboard-preview.png)
 ---
-##Author
+Author
 Arena Choudhary
